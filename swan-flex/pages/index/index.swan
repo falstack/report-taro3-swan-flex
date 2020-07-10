@@ -1,0 +1,5 @@
+<!-- index.swan -->
+<view class="flex-container">
+<view class="flex-0">header</view>
+<view class="flex-1">body</view>
+</view>
